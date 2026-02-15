@@ -1,7 +1,7 @@
 # DnD beasts scraper
 Scrape a website and create a md file containing DnD creatures.
 
-## 🎲 Context
+## Context
 As a D&D player, I often found myself needing a way to reference creature stats quickly without relying on a stable internet connection or navigating slow web interfaces during a session. 
 
 I decided to turn this necessity into a learning opportunity. This project serves as a deep dive into the **Go CLI ecosystem**, specifically focusing on:
